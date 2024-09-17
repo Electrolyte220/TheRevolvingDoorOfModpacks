@@ -141,6 +141,11 @@ hash = "44606ce4e6281fb618e29d7eb014d70793b676236cf1e171f3f4b30855c03354"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "bb4abbd0f6f52f9cb73400f2559630a40f0cae9df5b5820ddb6e9a0754448276"
 metafile = true
@@ -693,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "f78cfdcb11385e2a1296012295da0cf13bb51b83e9947bc8919b59f0858701be"
+metafile = true
+
+[[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "aae8edc33d468ede69bee297acd2cfc8faee0f88157bf9bbccdbdbf80c231c01"
 metafile = true
 
 [[files]]
