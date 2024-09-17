@@ -759,3 +759,7 @@ metafile = true
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "9ce923a579cb7fd98151bd3ed848ad1227a01a32308ba3a8146896a529d2ff21"
 metafile = true
+
+[[files]]
+file = "packwiz"
+hash = "9169ed5c6a9e44c102c17b2f58cd0d6c20e97343bba139723863abfdebcd458f"
