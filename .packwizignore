@@ -1,0 +1,14 @@
+/*
+
+# mods
+!/mods
+/mods/.index
+/mods/*.jar
+/mods/*.disabled
+
+# configs
+
+# resource packs
+/resourcepacks/*
+
+!/packwiz
