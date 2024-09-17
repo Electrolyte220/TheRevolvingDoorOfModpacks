@@ -1,0 +1,13 @@
+filename = 'AmbientEnvironment-fabric-1.21-17.0.0.5.jar'
+name = 'Ambient Environment'
+side = 'client'
+
+[download]
+hash = 'a386792399976e22b82815b92c1aa91ad9272f1cdb2e0694fc73102bdc4b05f3ce499a1143f8a60569e1ee0b46ecbed32801b298b9d74cbe4a2baad3360e6140'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DyTvM1dv/versions/wXLJQpJZ/AmbientEnvironment-fabric-1.21-17.0.0.5.jar'
+
+[update.modrinth]
+mod-id = 'DyTvM1dv'
+version = 'wXLJQpJZ'

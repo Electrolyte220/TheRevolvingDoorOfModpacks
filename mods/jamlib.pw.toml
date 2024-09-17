@@ -1,0 +1,13 @@
+filename = 'jamlib-fabric-1.0.9+1.21.jar'
+name = 'JamLib'
+side = 'both'
+
+[download]
+hash = '4c4526377f617ea74c98cc19557e3b8ca46762b9ad08a10c5f95b7da9ade63a4dabcc18a730b329757dcfaf5a9b8684ec7b20d85fe9adad11ec2b7ef03613f3b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IYY9Siz8/versions/K86pUXyn/jamlib-fabric-1.0.9%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'IYY9Siz8'
+version = 'K86pUXyn'

@@ -1,0 +1,13 @@
+filename = 'NetherCoords v2.0.1 for 1.21.jar'
+name = 'Nether Coords'
+side = 'client'
+
+[download]
+hash = '448b3cd741887a7398afb5d1a4f3a1e46e498de7a7b9d66d2d1e52b5f7318ade96eb62eb241178d172611c2c990a9a7efef435c4813fde107e5e7872e045235f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KHwGUCPn/versions/LxBreF5A/NetherCoords v2.0.1 for 1.21.jar'
+
+[update.modrinth]
+mod-id = 'KHwGUCPn'
+version = 'LxBreF5A'

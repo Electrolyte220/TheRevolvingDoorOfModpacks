@@ -1,0 +1,13 @@
+filename = 'spark-1.10.73-fabric.jar'
+name = 'spark'
+side = 'both'
+
+[download]
+hash = 'ddc0f8dfefc2006cbe56b397b8c5d7d5532763f3a67dc3f875a300428085a1eb5fa8963624eaf2e9b68bd65ad265c75bd55296af05141de2c1bc23fbd2818254'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar'
+
+[update.modrinth]
+mod-id = 'l6YH9Als'
+version = 'KYGTUMOq'
