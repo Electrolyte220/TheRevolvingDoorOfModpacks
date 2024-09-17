@@ -1,0 +1,18 @@
+/*
+
+# mods
+!/mods
+/mods/.index
+/mods/*.jar
+/mods/*.disabled
+
+/.github/*
+
+# configs
+
+# resource packs
+/resourcepacks/*
+
+!/packwiz
+!/pack.toml
+!/index.toml
