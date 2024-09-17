@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "4ec473fe03b59fc2720428740d97fb938b8de5c15d1924760c3560e3c0199135"
+hash = "d5f2d2d1b9bd79dd850c1091a5b78e1865edd373be7b743c941bde0f10c078cb"
 metafile = true
 
 [[files]]
@@ -308,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "075fee5f93aab38cb5862c465fac458ce217e4628b56dbce3f832a31da01975f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "a61a925467373aadbe44e387a0a6fedbaf28a9334a2feb10c645df644eef37e2"
 metafile = true
 
 [[files]]
@@ -542,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "6fc9c29eac7fd4134058cd770faaf15adb204556f8688e3a9047a5f89aaba791"
+hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
 metafile = true
 
 [[files]]
@@ -677,7 +682,12 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "f07b4c41dd5c1e6ef959208c665a11b03dead575c51d64aecdd6d53883c57bcb"
+hash = "1143f51e1bab2075190330ed6c86d5036c6706cb1a76df3a80108bc9edef63ef"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "f78cfdcb11385e2a1296012295da0cf13bb51b83e9947bc8919b59f0858701be"
 metafile = true
 
 [[files]]
