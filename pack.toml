@@ -1,0 +1,13 @@
+name = "R&R"
+author = "Electrolyte"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1242038b959324e23cef5a50359eb7b414e2a647f32675c20895f30caa4a7481"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21"
