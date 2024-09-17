@@ -696,6 +696,11 @@ hash = "ae8b375f79fb831c1b4e6a1945c451cafee02d662d31e804f843f60f1af24708"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "fc1cf6a4cf789a0e4447931f6c070e1c4609dc745467b9a029a6a0ecee94a3a9"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "6f40b5fca015dfc8c105fc50640909b03b474b4756fd91ea28b5c557c25dbcc7"
 metafile = true
