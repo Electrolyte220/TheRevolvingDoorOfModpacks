@@ -6,8 +6,6 @@
 /mods/*.jar
 /mods/*.disabled
 
-/.github/*
-
 # configs
 
 # resource packs
