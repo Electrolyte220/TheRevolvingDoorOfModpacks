@@ -1,13 +1,13 @@
-filename = 'worldweaver-21.0.10.jar'
-name = 'World Weaver'
-side = 'both'
+name = "World Weaver"
+filename = "worldweaver-21.0.13.jar"
+side = "both"
 
 [download]
-hash = '65229ae02b7f3b1ffb4131b674807a380a64bec14d7d734f3e4505e13fa29ee08b3a6f953b131ade594ee4f895a437b9d0244f758f0a72cbf46b89557d8d710f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/RiN8rDVs/versions/3scewVhB/worldweaver-21.0.10.jar'
+url = "https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar"
+hash-format = "sha1"
+hash = "01e7196395386bbddc3ff7d47fe37869a850cecd"
 
+[update]
 [update.modrinth]
-mod-id = 'RiN8rDVs'
-version = '3scewVhB'
+mod-id = "RiN8rDVs"
+version = "mPmeykPR"

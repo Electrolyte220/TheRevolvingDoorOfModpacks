@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "bf66b11b09b9ed98a2723a46290f3783471a7602868296fefeb1615bc1bc3c56"
+hash = "04658b2af1dcf1669a6b73522dbf2076078a6bbb0f84c379d74051b7a4ebc79b"
 metafile = true
 
 [[files]]
@@ -86,6 +86,11 @@ hash = "409afc4edba23bc3998bf6c849e507bc1938a74214c6a645fcbf8424d46cfa01"
 metafile = true
 
 [[files]]
+file = "mods/better-end-cities-for-betterend.pw.toml"
+hash = "d96f88a056671c1f93ee61eb4fb7bd94d1cc742c818b820024a74b1d6ef9dd7a"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "b8ca7a8da99d753b81e4b8b7d9e105ef78d75819d8522320dc4129f178319f8d"
 metafile = true
@@ -96,8 +101,18 @@ hash = "a164ecd831c0279786cc47f95b82e271110e6c3cf6d739ad7136ec164cf934ed"
 metafile = true
 
 [[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd3718cc882f4cff9723fcb35e29da709990ca8c95263ff4a25b0c6647c73cc2"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8fde2a1088b2f2bf3bc6a8be498dcba546e7f1ad53f98ac54d33355416f8255"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "c0a884ef09f92652009524ea530eb8583cb02f3ce2eeaa3dcafee04bffdcdf58"
 metafile = true
 
 [[files]]
@@ -322,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ff01765d1c58dd8cf42ae80f7334216ca4f8dbf14199c38f568a3980e22af9d"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -537,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "e8d8912064f7a01c989343e78adc2504100a7c3dff920869910fee33435d0653"
+hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
 
 [[files]]
@@ -887,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
-hash = "1ebb79b170aff70d2fbfa53a62e69064ef9d2e7d72ce75e4ad492b061ed6768f"
+hash = "91195be1b38d66cf028420212ef1426564e1e2f02da598d0054e6108c2ba92c1"
 metafile = true
 
 [[files]]
@@ -912,6 +927,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "551a6d1f390f327a556bf8955e228c8f72cd7794ce69ccc11bddcaa7c0605b62"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-nether.pw.toml"
+hash = "18d045d3bee41e6305adc2cded850f46f479cba8288bc3ddd25228bf57a92897"
 metafile = true
 
 [[files]]
