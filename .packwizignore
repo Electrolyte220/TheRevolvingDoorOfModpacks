@@ -7,6 +7,8 @@
 /mods/*.disabled
 
 # configs
+!/config
+/config
 !/config/streamotes.json5
 
 # resource packs
