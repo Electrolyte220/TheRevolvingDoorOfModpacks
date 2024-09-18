@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7d1a2009e73a857e56c3c14ef809fa4624c0ac53a3760dd337aa09a7f2bc1dca"
+hash = "ba816cc8fb98e62b2e3b3b33e6ea63664b3fd505e6305aa9dd4080c1f1a29c9a"
 metafile = true
 
 [[files]]
@@ -622,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "407000bbf6b2ababf9d5e1169563e47dbe80150ce302820c88db2f1717f0acd8"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "9e0247969a7f653e8dcb56817f6ae759937f393a852e38cecc3a99180cae697f"
 metafile = true
 
 [[files]]
