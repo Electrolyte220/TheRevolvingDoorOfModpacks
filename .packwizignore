@@ -15,4 +15,10 @@
 !/resourcepacks
 /resourcepacks/*.zip
 
+# shader packs
+!/shaderpacks
+/shaderpacks/*
+!/shaderpacks/*.toml
+/shaderpacks/*.zip*
+
 !/packwiz
