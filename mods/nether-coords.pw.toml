@@ -1,13 +1,13 @@
-filename = 'NetherCoords v2.0.1 for 1.21.jar'
-name = 'Nether Coords'
-side = 'client'
+name = "Nether Coords"
+filename = "NetherCoords v2.0.1 for 1.21-1.21.1.jar"
+side = "client"
 
 [download]
-hash = '448b3cd741887a7398afb5d1a4f3a1e46e498de7a7b9d66d2d1e52b5f7318ade96eb62eb241178d172611c2c990a9a7efef435c4813fde107e5e7872e045235f'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/KHwGUCPn/versions/LxBreF5A/NetherCoords v2.0.1 for 1.21.jar'
+url = "https://cdn.modrinth.com/data/KHwGUCPn/versions/Wyrbotnb/NetherCoords%20v2.0.1%20for%201.21-1.21.1.jar"
+hash-format = "sha1"
+hash = "0ceeddb0c5a71c0efcfe59cd1a62aad6f7320203"
 
+[update]
 [update.modrinth]
-mod-id = 'KHwGUCPn'
-version = 'LxBreF5A'
+mod-id = "KHwGUCPn"
+version = "Wyrbotnb"

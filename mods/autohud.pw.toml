@@ -1,13 +1,13 @@
-filename = 'autohud-7.2.1+1.21-fabric.jar'
-name = 'Auto HUD'
-side = 'client'
+name = "Auto HUD"
+filename = "autohud-7.2.6+1.21-fabric.jar"
+side = "client"
 
 [download]
-hash = 'eefc0d9b3321cbdb80510866bec8dd547ed2daa6b58b92871c0dd927e50467806940c4912d17fcfdcfb7605332d3983ce11f0877952e5008488bfb36eeff9050'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/temczoTQ/versions/5xcxoJPy/autohud-7.2.1%2B1.21-fabric.jar'
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/u3KJnHRp/autohud-7.2.6%2B1.21-fabric.jar"
+hash-format = "sha1"
+hash = "f742166c51749df7552810f190c3e833025fdd44"
 
+[update]
 [update.modrinth]
-mod-id = 'temczoTQ'
-version = '5xcxoJPy'
+mod-id = "temczoTQ"
+version = "u3KJnHRp"

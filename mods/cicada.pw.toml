@@ -1,13 +1,13 @@
-filename = 'cicada-lib-0.8.1+1.21-and-above.jar'
-name = 'CICADA'
-side = 'both'
+name = "CICADA"
+filename = "cicada-lib-0.8.3+1.21-and-above.jar"
+side = "both"
 
 [download]
-hash = 'c9ec8bbe9ff980cad6177a577d553dd3494fc3d00141093525c33ef95dc67ab8dce759ca40d8e3020b6e8a5bc74696606d0833c99999677bfad8d78116d0f55e'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/IwCkru1D/versions/i13D9AEP/cicada-lib-0.8.1%2B1.21-and-above.jar'
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/cIHtzziG/cicada-lib-0.8.3%2B1.21-and-above.jar"
+hash-format = "sha1"
+hash = "e8c74706cd4c38ac69785d15462eb1c7fcec3c54"
 
+[update]
 [update.modrinth]
-mod-id = 'IwCkru1D'
-version = 'i13D9AEP'
+mod-id = "IwCkru1D"
+version = "cIHtzziG"

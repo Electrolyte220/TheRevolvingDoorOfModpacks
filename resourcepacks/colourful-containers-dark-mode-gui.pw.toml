@@ -3,11 +3,11 @@ filename = "colourful containers darkmode.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PCGR5Y1W/versions/ZNuUSDVi/colourful%20containers%20darkmode.zip"
+url = "https://cdn.modrinth.com/data/PCGR5Y1W/versions/eNXmQhLL/colourful%20containers%20darkmode.zip"
 hash-format = "sha1"
-hash = "8b6bea72edc27d6b7e38fd0d4978d1976e79008b"
+hash = "572b655ce709d438f729cee2e819e77b4d9e017c"
 
 [update]
 [update.modrinth]
 mod-id = "PCGR5Y1W"
-version = "ZNuUSDVi"
+version = "eNXmQhLL"

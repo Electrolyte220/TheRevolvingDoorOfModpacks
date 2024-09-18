@@ -1,13 +1,13 @@
-filename = 'image2map-0.7.0+1.21.jar'
-name = 'Image2Map'
-side = 'server'
+name = "Image2Map"
+filename = "image2map-0.7.1+1.21.jar"
+side = "server"
 
 [download]
-hash = '99d90ac83b9058a3a925815c71a02a666f1c507dd9895ad96966a768f446cbebb012eed1418efb93ad013b17722e8e12ff1340a423a1ad821515482e44907939'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/13RpG7dA/versions/esrvoaS1/image2map-0.7.0%2B1.21.jar'
+url = "https://cdn.modrinth.com/data/13RpG7dA/versions/IcHYiWHv/image2map-0.7.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "3d5f143b3c4c151a2a6ced9dd6d0d319bccc5d9e"
 
+[update]
 [update.modrinth]
-mod-id = '13RpG7dA'
-version = 'esrvoaS1'
+mod-id = "13RpG7dA"
+version = "IcHYiWHv"

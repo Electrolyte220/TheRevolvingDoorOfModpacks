@@ -1,13 +1,13 @@
-filename = 'real-arrow-tip-0.1.0+mc1.21.0.jar'
-name = 'Real Arrow Tip'
-side = 'client'
+name = "Real Arrow Tip"
+filename = "real-arrow-tip-0.1.1+mc1.21.0.jar"
+side = "client"
 
 [download]
-hash = '943861c07282afd865d852ad3996ddd010e9243d9f36ae1d726a3358ff1cfcd561e3aa3ccff4875446b9875e4106400d57439a8b0fedf6f615308702ed69977d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/vgVfk0m2/versions/78gU95fP/real-arrow-tip-0.1.0%2Bmc1.21.0.jar'
+url = "https://cdn.modrinth.com/data/vgVfk0m2/versions/7iJZhWjE/real-arrow-tip-0.1.1%2Bmc1.21.0.jar"
+hash-format = "sha1"
+hash = "2c68b2568dd0a22795bc6cd887838c471923818f"
 
+[update]
 [update.modrinth]
-mod-id = 'vgVfk0m2'
-version = '78gU95fP'
+mod-id = "vgVfk0m2"
+version = "7iJZhWjE"
