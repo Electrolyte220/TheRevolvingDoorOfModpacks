@@ -7,9 +7,11 @@
 /mods/*.disabled
 
 # configs
+!/config/streamotes.json5
 
 # resource packs
-/resourcepacks/*
+!/resourcepacks
+/resourcepacks/*.zip
 
 !/packwiz
 !/pack.toml

@@ -788,3 +788,43 @@ metafile = true
 [[files]]
 file = "packwiz"
 hash = "9169ed5c6a9e44c102c17b2f58cd0d6c20e97343bba139723863abfdebcd458f"
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "ca813dd20d49bff1aad639a671da5b4bfdf1cb5e40de13d5e9c0ddc9754c3dcf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "551a6d1f390f327a556bf8955e228c8f72cd7794ce69ccc11bddcaa7c0605b62"
+metafile = true
+
+[[files]]
+file = "resourcepacks/colourful-containers-dark-mode-gui.pw.toml"
+hash = "2fed2698a9463323504b9f0a3f890968418ff1228873c06047664519f8e421d8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "f0c582e7c5bf716a03f9b98dd11b5241ff4d939b1e365b5c652c9d5c4745d759"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nautilus3d.pw.toml"
+hash = "f4018bfded4e45384e3a343492aaaee5e42f6a70699c9a2158cde125865ad116"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "520a1595b142a2b605f520db3953b8ff0094ff9a2988aae7bec9a2cb1bd943d5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "99c6abf6a8d28c1c56156d25411ba816cf2bf38d7d174514a2ad32ac03ad737b"
+metafile = true

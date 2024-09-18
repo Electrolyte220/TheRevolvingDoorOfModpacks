@@ -1,0 +1,13 @@
+filename = 'streamotes-1.2.2+1.21.jar'
+name = 'Streamotes'
+side = 'client'
+
+[download]
+hash = 'd37bd03a1abff6e3cdc6e8691ad8e91c64bf65ec328973ac17e0f3a15825dad376f02e9a824c70866db25fc10902d223581655dc5882441f6a8ba449598e7b9e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IAJz3K09/versions/M59kTtHb/streamotes-1.2.2%2B1.21.jar'
+
+[update.modrinth]
+mod-id = 'IAJz3K09'
+version = 'M59kTtHb'
